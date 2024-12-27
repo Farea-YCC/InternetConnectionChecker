@@ -29,8 +29,11 @@ dependencies:
   # to internet_connection_checker_plus of internet
   internet_connection_checker_plus: ^1.0.0
   # to do notifications
+<<<<<<< HEAD
   flutter_local_notifications:
 
+=======
+>>>>>>> eea456b (this is simple Example Internet Connection Checker)
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
